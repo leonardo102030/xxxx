@@ -48,11 +48,23 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Threesome
 http://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot" tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos",[XX] Sexy Hot
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://tv.factoryiptv.com:80/live/iran01/iran01/37009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos",[XX] Venus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://tv.factoryiptv.com:80/live/iran01/iran01/37026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Sextreme" tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos",[XX] Sextreme
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://tv.factoryiptv.com:80/live/iran01/iran01/37047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos",[XX] Playboy TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://tv.factoryiptv.com:80/live/iran01/iran01/37061.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV" tvg-logo="http://voxp2p.xyz:80/images/cfe819bed5b34b02ccb68ab69ab2055b.png" group-title="CANAIS | +18 ADULTOS",Playboy TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/5470.m3u8
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="SEXTREME" tvg-logo="http://voxp2p.xyz:80/images/be3ee8e6710dbdd2ddf35f5b6729572b.png" group-title="CANAIS | +18 ADULTOS",SEXTREME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/5491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="http://voxp2p.xyz:80/images/be3ee8e6710dbdd2ddf35f5b6729572b.png" group-title="CANAIS | +18 ADULTOS",SEXTREME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/40931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME HD" tvg-logo="http://voxp2p.xyz:80/images/be3ee8e6710dbdd2ddf35f5b6729572b.png" group-title="CANAIS | +18 ADULTOS",SEXTREME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/40930.m3u8
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="SEXY HOT" tvg-logo="http://voxp2p.xyz:80/images/b3658cfc746c153f35a7d0569e6c7520.png" group-title="CANAIS | +18 ADULTOS",SEXY HOT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/5492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="http://voxp2p.xyz:80/images/b3658cfc746c153f35a7d0569e6c7520.png" group-title="CANAIS | +18 ADULTOS",SEXY HOT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/40935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT FHD" tvg-logo="http://voxp2p.live:80/images/b3658cfc746c153f35a7d0569e6c7520.png" group-title="CANAIS | +18 ADULTOS",SEXY HOT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/40933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD" tvg-logo="http://voxp2p.xyz:80/images/b3658cfc746c153f35a7d0569e6c7520.png" group-title="CANAIS | +18 ADULTOS",SEXY HOT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/40932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Salão da Sacanagem - Taynar Torres" tvg-logo="http://voxp2p.live:80/images/ea4cb89751bde10519cb683f3c5268ab.png" group-title="CANAIS | +18 ADULTOS",Salão da Sacanagem - Taynar Torres
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/46166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Salão da Sacanagem Pamela Santos" tvg-logo="http://voxp2p.live:80/images/ea4cb89751bde10519cb683f3c5268ab.png" group-title="CANAIS | +18 ADULTOS",Salão da Sacanagem Pamela Santos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://srvuhd.top:80/live/Alex2021/Alex2021/46165.m3u8
